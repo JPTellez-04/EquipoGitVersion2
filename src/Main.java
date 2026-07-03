@@ -6,5 +6,8 @@ class Main {
 
         System.out.println("Tratando de q falle");
         //Otra vez
+
+
+        String trabajo = "programacion";
     }
 }
